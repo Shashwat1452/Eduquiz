@@ -98,4 +98,4 @@ const percent = Math.round((score / total) * 100);
 
 resultBox.innerHTML =
 `Score: ${score}/${total}<br>Percentage: ${percent}%`;
-}￼Enter
+}
